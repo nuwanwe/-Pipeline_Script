@@ -28,7 +28,7 @@ pipeline {
                         label "master"
                     }
                     steps {
-						echo "Task1 on Master"
+						echo "Task1 on Maste 1r"
 					}
                 }
             }
